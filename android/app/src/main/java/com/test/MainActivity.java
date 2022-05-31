@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "test";
+    return "react-native-github-profile";
   }
 
   /**
